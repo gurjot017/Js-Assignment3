@@ -1,1 +1,1 @@
-https://gurjot017.github.io/Js-Assignment3/
+https://github.com/gurjot017/Js-Assignment3.git
